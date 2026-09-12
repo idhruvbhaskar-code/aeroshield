@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Erosheind - Custom Cricket Guards | Coming Soon</title>
+    <title>Aeroshield - Custom Cricket Guards | Coming Soon</title>
     <style>
         /* Reset and Global Styles */
         body, html {
@@ -145,10 +145,10 @@
                     <tr>
                         <td style="vertical-align: top;">
                             <p>
-                                <strong>Erosheind</strong> is a pioneering sports startup dedicated to building customized, high-performance cricket guards for youth players. We perfectly blend certified impact protection with feather-light flexibility, ensuring kids stay safe without sacrificing speed or agility on the pitch. 
+                                <strong>Aeroshield</strong> is a pioneering sports startup dedicated to building customized, high-performance cricket guards for youth players. We perfectly blend certified impact protection with feather-light flexibility, ensuring kids stay safe without sacrificing speed or agility on the pitch. 
                             </p>
                             <p>
-                                Our journey started with <span class="highlight">Bhaskar</span>, a passionate Class 6 student at <span class="highlight">Christ Academy School in Electronic City</span>. Frustrated by bulky, ill-fitting traditional cricket pads that slowed down his footwork, Bhaskar inspired us to rethink youth cricket protection from scratch. Erosheind was born to help young athletes play completely fearless.
+                                Our journey started with <span class="highlight">Dhruv Bhaskar</span>, a passionate Class 6 student at <span class="highlight">Christ Academy School in Electronic City</span>. Frustrated by bulky, ill-fitting traditional cricket pads that slowed down his footwork, Bhaskar inspired us to rethink youth cricket protection from scratch. Erosheind was born to help young athletes play completely fearless.
                             </p>
                         </td>
                     </tr>
@@ -188,9 +188,9 @@
             <td style="padding: 40px 20px; text-align: center; border-top: 1px solid #1f2937; background-color: #161b22;">
                 <p style="margin-bottom: 10px;">Have questions or want to partner with us?</p>
                 <p style="font-size: 18px; font-weight: bold; margin-bottom: 30px;">
-                    Contact us at: <a href="mailto:info@erosheind.com" style="color: #00d2ff; text-decoration: none;">info@erosheind.com</a>
+                    Contact us at: <a href="mailto:info@aeroshield.com" style="color: #00d2ff; text-decoration: none;">info@aeroshield.com</a>
                 </p>
-                <p class="footer-text">&copy; 2026 Erosheind Sports Technologies. Electronic City, Bengaluru.</p>
+                <p class="footer-text">&copy; 2026 Aeroshield Sports Technologies. Electronic City, Bengaluru.</p>
             </td>
         </tr>
 
